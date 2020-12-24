@@ -1,9 +1,22 @@
-### Hi there 👋, my name is Taishi Nammoto.
-#### Natural Language Processing and Data Visualization
+# Taishi Nammoto.
+I'm Taishi Nammoto from Japan, and I do content on Natural Language Processing and Data Visualization. I really enjoy learning new machine learning models and training them with the data I collect. I like data scraping as well as learning machine learning, and so I will contribute to GitHub by providing data I collect and machine learning models trained with the data. 
 
-I really enjoy learning new machine learning models and training them with the data I collect. I like data scraping as well as learning machine learning, and so I will contribute to GitHub by providing data I collect and machine learning models trained with the data. 
+## Skills of Programming Languages
+* 🐍 Python
+* Ⓡ R
+* 📳 SQL 
+* 🌊 C++ 
+* 🖥 HTML
+* 📲 CSS
 
-Skills: Python / R / SQL / C++ / HTML / CSS
+## My favorite python modules
+*NumPy 
+Pandas 
+Tensorflow 
+Open-CV 
+NLTK 
+Gensim 
+Flask
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taishi-nammoto)](https://github.com/anuraghazra/github-readme-stats)
 
