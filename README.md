@@ -10,13 +10,13 @@ I'm Taishi Nammoto from Japan, and I do content on Natural Language Processing a
 * 📲 CSS
 
 ## My favorite python modules
-*NumPy 
-Pandas 
-Tensorflow 
-Open-CV 
-NLTK 
-Gensim 
-Flask
+* NumPy 
+* Pandas 
+* Tensorflow 
+* Open-CV 
+* NLTK 
+* Gensim 
+* Flask
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taishi-nammoto)](https://github.com/anuraghazra/github-readme-stats)
 
